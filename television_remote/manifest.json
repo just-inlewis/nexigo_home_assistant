@@ -1,0 +1,8 @@
+{
+  "domain": "television_remote",
+  "name": "Television Remote",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": [],
+  "codeowners": []
+}
